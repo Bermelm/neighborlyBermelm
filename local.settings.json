@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+  "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=bermelmneighborlyada6;AccountKey=MHnClZcH5kbNGRjKr6PK7xOFPsj7Cx7FbHiWMEjD/Z/aNjakPgw1t+yjplk4GwA3Gpw4q3cbutFH+AStKOzwgw==;EndpointSuffix=core.windows.net",
+  "FUNCTIONS_WORKER_RUNTIME": "python",
+  "FUNCTIONS_EXTENSION_VERSION": "~3",
+  "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING":"DefaultEndpointsProtocol=https;AccountName=bermelmneighborlyada6;AccountKey=MHnClZcH5kbNGRjKr6PK7xOFPsj7Cx7FbHiWMEjD/Z/aNjakPgw1t+yjplk4GwA3Gpw4q3cbutFH+AStKOzwgw==;EndpointSuffix=core.windows.net",
+  "WEBSITE_CONTENTSHARE":"bermelmneighborlyfunction97e6",  
+  "MyDbConnection":"mongodb://bermelmneighborlycosmosdb:tRYEACYpu4b0616ovGhF9vbBOSBoVLRd76xuHIkWpv28Q4rz0soXkKpUVBi7HZYDUU8OBoQ1ny0Lh3x7ZLdoxQ==@bermelmneighborlycosmosdb.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@bermelmneighborlycosmosdb@"
+  }
+  }
